@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Contrast stretching by piecewise linear transformation}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}python codes}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}test example}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Computation of joint histogram}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Global n-dimension joint histogram}{3}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}python codes}{3}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}test example: 2-dimension joint histgoram}{3}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Local 2-dimension joint histogram}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}python code}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}test example}{5}{subsubsection.2.2.2}%
+\contentsline {section}{\numberline {3}Histgoram equalization}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Global equalization}{6}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}python codes}{6}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}test example}{7}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Local equalization}{8}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}python codes}{8}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}test exaple}{8}{subsubsection.3.2.2}%

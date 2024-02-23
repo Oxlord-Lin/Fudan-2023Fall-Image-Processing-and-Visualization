@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}FFD形变算法}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}FFD原理简介}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}FFD的Python实现}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}反向图像变换}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}反向变换原理简介}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}反向变换的Python实现}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}效果测试}{6}{subsection.2.3}%

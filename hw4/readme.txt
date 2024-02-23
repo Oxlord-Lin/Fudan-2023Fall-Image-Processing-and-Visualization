@@ -1,0 +1,9 @@
+- hw4_report.pdf 是本次作业的报告
+- 1_1_smoothing_GLPF.py 基于高斯低通滤波器实现了平滑操作
+- 1_2_sharpen_GHPF.py 基于高斯高通滤波器实现了能保留原图像色调的锐化操作
+- 2_remove_noise.py 基于带通滤波器实现了对CT图像中周期性噪声的去噪操作
+- test.jpeg 是本次锐化和平滑操作中所用的测试图
+- 作业四 图像.PNG 是带有周期性噪声的CT图像
+- smooth_result_Gauss 文件夹保存了平滑操作的结果
+- sharpen_result_Gauss 文件夹保存了锐化操作的结果
+- remove_noise_result 文件夹保存了对CT图像去噪的结果

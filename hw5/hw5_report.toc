@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}主要Python文件简介}{1}{section.1}%
+\contentsline {section}{\numberline {2}噪声的生成}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}白噪声的生成}{1}{subsection.2.1}%
+\contentsline {paragraph}{噪声原理介绍}{1}{section*.2}%
+\contentsline {paragraph}{白噪声生成代码}{2}{section*.3}%
+\contentsline {subsection}{\numberline {2.2}瑞利噪声的生成}{2}{subsection.2.2}%
+\contentsline {paragraph}{噪声原理介绍}{2}{section*.4}%
+\contentsline {paragraph}{瑞利噪声生成代码}{2}{section*.5}%
+\contentsline {subsection}{\numberline {2.3}向测试图像添加噪声}{3}{subsection.2.3}%
+\contentsline {paragraph}{添加噪声的细节说明}{3}{section*.6}%
+\contentsline {paragraph}{添加噪声的代码实现}{3}{section*.7}%
+\contentsline {paragraph}{添加噪声后的效果}{4}{section*.8}%
+\contentsline {section}{\numberline {3}最佳陷波滤波器}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}最佳陷波滤波器的原理}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Python代码实现}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}滤波效果展示}{9}{subsection.3.3}%

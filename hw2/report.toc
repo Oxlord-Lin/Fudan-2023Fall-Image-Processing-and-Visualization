@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Restate the Basic Global Thresholding using the histogram}{1}{section.1}%
+\contentsline {section}{\numberline {2}Locally adaptive thresholding}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}算法实现简介}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Python代码}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}测试案例：肝脏核磁共振影像}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}线性插值算法：放大图片分辨率}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}算法实现简介}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Python代码}{6}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}测试案例：86版西游记剧照}{7}{subsection.3.3}%

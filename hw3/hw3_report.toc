@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Implementation of Spatial Filter}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Smoothing}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Introduction to My Algorithm and the Python Codes}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Experiment Results}{3}{subsubsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.2}Sharpening}{5}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Introduction to my Algorithm and Python Codes}{5}{subsubsection.1.2.1}%
+\contentsline {section}{\numberline {2}Proofs about Frequence Transform}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Impulse Train after Frequence Transform}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}The Discrete Frequence Transform of a Real Signal}{11}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}The convolution theorem of 2-Dimension}{11}{subsection.2.3}%

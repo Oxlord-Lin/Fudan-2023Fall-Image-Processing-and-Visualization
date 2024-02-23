@@ -1,0 +1,8 @@
+- hw5_report.pdf 是本次实验的报告
+- white_noise_generator.py 能产生相位角服从均匀分布或高斯分布的白噪声
+- Rayleigh_noise_generator.py 能产生瑞利噪声
+- 1_adding_noise.py 能够向大脑图像、心脏图像中添加白噪声和瑞利噪声
+- 2_best_notch_filter.py 实现了最佳陷波滤波器
+- 大脑图像.png， 心脏图像.png，带噪声的脑膜图.PNG是本次实验的测试用图，在Python文件中基于相对路径读取这些图片
+- adding_noise_result文件夹内保存了添加噪声后的图像
+- notch_filter_result文件夹内保存了使用最佳陷波滤波器进行滤波后的有关图像

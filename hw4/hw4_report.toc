@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}频率域滤波}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}平滑}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}频域滤波器：高斯低通滤波器（GLPF）}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Python代码实现}{1}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}效果展示}{4}{subsubsection.1.1.3}%
+\contentsline {paragraph}{小结}{6}{section*.2}%
+\contentsline {subsection}{\numberline {1.2}锐化}{6}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}频域滤波器：高斯高通滤波器（GHPF）}{6}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Python代码实现}{6}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}效果展示}{8}{subsubsection.1.2.3}%
+\contentsline {paragraph}{小结}{10}{section*.3}%
+\contentsline {section}{\numberline {2}去除大脑CT体膜图像中的条纹}{11}{section.2}%
+\contentsline {subsection}{\numberline {2.1}频域变换}{11}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Python代码实现}{12}{subsection.2.2}%
